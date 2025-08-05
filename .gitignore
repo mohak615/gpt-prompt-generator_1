@@ -1,0 +1,13 @@
+# Secrets
+.env
+creds.json
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Local files
+*.log
